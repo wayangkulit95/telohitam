@@ -24,10 +24,9 @@ clear;clear;clear
 
   # // Banner
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo -e "  Welcome To AUTOSCRIPT V3 BY MTS ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
+echo -e "  Welcome To AUTOSCRIPT V3 BY MTS ${YELLOW}(${NC}${green} Stable Edition 2024 ${NC}${YELLOW})${NC}"
 echo -e " This Will Quick Setup VPN Server On Your Server"
-echo -e "  Auther : ${green}maeribo ® ${NC}${YELLOW}(${NC} ${green} FTP ${NC}${YELLOW})${NC}"
-echo -e " © Recode By maeribo ${YELLOW}(${NC} 2023 ${YELLOW})${NC}"
+echo -e "  Auther : ${green}maeribo ® ${NC}${YELLOW}(${NC} ${green} 2016 ${NC}${YELLOW})${NC}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
 sleep 2
